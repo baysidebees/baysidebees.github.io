@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum Dolor Sit Amet
+title: American Bee Journal Article of Our Apiary
 featured: images/pic04.jpg
 layout: post
 ---
